@@ -6,9 +6,9 @@
     "email": "ymchoi@email.arizona.edu",
     "phone": "",
     "website": "https://galaxyumi.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am Astronomer.",
     "location": {
-      "address": "",
+      "address": "950 N Cherry Ave.",
       "postalCode": "85719",
       "city": "Tucson",
       "countryCode": "USA",
@@ -22,26 +22,24 @@
       },
       {
         "network": "researchgate",
-        "username": "Yumi Choi",
+        "username": "ymchoi@astro.washington.edu",
         "url": "https://www.researchgate.net/profile/Yumi_Choi2"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "galaxy formation and evolution",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "resolved stellar populations",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "near-field cosmology",
       "keywords": [
       ]
     }
@@ -73,11 +71,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Washington, Seattle, USA",
+      "area": "Astronomy",
+      "studyType": "Ph.D",
+      "startDate": "",
+      "endDate": "2016",
       "gpa": "",
       "courses": [
       ]
@@ -85,54 +83,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "institue": "University of Arizona/Montana State University",
+      "position": "Postdoctoral Research Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "Sep. 2016",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Working on the SMASH (Survey of the MAgellanic Stellar History) project",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Photometry Quality Assurance", "LMC Dust Reddening Map", "LMC 3D Structure",
+        "Modeling the LMC Disk"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "institue": "University of Washington,
+      "position": "Research Assistant",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "Sep. 2012",
+      "endDate": "Aug. 2016",
+      "summary": "Galaxy Physics Using Resolved Stellar Populations",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Measuring Spatially Resolved Star Formation History", "Testing the Spiral Density Wave Theory",
+        "Modeling Stellar SEDs","Measuring the Escape Fraction of Ionizing Photons","Modeling the M31 Disk"
       ]
     }
   ],
