@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Yumi Choi",
-    "label": "Postdoc",
+    "label": "Research Associate",
     "picture": "https://galaxyumi.github.io/images/yumi.JPG",
     "email": "ymchoi@email.arizona.edu",
     "phone": "",
     "website": "https://galaxyumi.github.io",
-    "summary": "I am Astronomer.",
+    "summary": "I am a SMASH postdoc at Monata State University/University of Arizona. My research interest centers on understanding the galaxy formation and evolution using resolved stellar populations in nearby galaxies. Specifically, I am interested in the evolution of dwarf galaxies as high-z analogs.",
     "location": {
       "address": "950 N Cherry Ave.",
       "postalCode": "85719",
