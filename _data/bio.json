@@ -5,7 +5,7 @@
     "picture": "https://galaxyumi.github.io/images/yumi.JPG",
     "email": "ymchoi@email.arizona.edu",
     "phone": "",
-    "website": "https://galaxyumi.github.io.tmp",
+    "website": "https://galaxyumi.github.io",
     "summary": "I am Astronomer.",
     "location": {
       "address": "950 N Cherry Ave.",
@@ -49,23 +49,17 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "IDL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MATCH",
+        "BEAST",
+        "Git/GitHub"
       ]
     }
   ],
@@ -97,21 +91,21 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
   ]
