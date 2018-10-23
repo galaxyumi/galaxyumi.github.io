@@ -18,6 +18,8 @@ summary: Spatially resolved star formation histories (SFHs) of M81 and M31 were 
 
 (This page is currently in active development!)
 
-[Choi et al. 2015](http://adsabs.harvard.edu/abs/2015ApJ...810....9C)
-[Lewis et al. 2015](http://adsabs.harvard.edu/abs/2015ApJ...805..183L)
-[Williams et al. 2017](http://adsabs.harvard.edu/abs/2017ApJ...846..145W)
+Recent star formation in M81: [Choi et al. 2015](http://adsabs.harvard.edu/abs/2015ApJ...810....9C)
+
+Recent star formation in M31: [Lewis et al. 2015](http://adsabs.harvard.edu/abs/2015ApJ...805..183L)
+
+Ancient star formation in M31: [Williams et al. 2017](http://adsabs.harvard.edu/abs/2017ApJ...846..145W)
