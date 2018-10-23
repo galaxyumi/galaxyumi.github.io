@@ -8,14 +8,17 @@ permalink: projects/SFH
 # date: 2014-04-12
 labels:
   - Star formation history
-  - Spiral in M81
-  - Density Wave
+  - M81 & M31
+  - Density Waves
   
-summary: Using the color-magnitude diagram of M81 constructed from HST imaging, I measured spatially resolved star formation histories around the spiral arm in M81. We test the density wave theory by looking for the predicted star formation propagation across the spiral arm.
+summary: Spatially resolved star formation histories (SFHs) of M81 and M31 were measured based on their color-magnitude diagrams constructed from HST imaging data. The measured SFHs allowed us to understand galaxy evolution across cosmic time and the origin of 
+their galactic strucutres such as spiral arms and rings. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 (This page is currently in active development!)
 
-
+[Choi et al. 2015](http://adsabs.harvard.edu/abs/2015ApJ...810....9C)
+[Lewis et al. 2015](http://adsabs.harvard.edu/abs/2015ApJ...805..183L)
+[Williams et al. 2017](http://adsabs.harvard.edu/abs/2017ApJ...846..145W)
