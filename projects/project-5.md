@@ -12,7 +12,7 @@ labels:
   - E+A galaxy
   - Galaxy evolution
   - SDSS & GALEX
-summary: I generated g-band difference images and constructed light curves to characterize the optical variability of both faint AGNs and quasars. 
+summary: We examined the Fundamental Planes of early type galaxies and revealed a certain group of UV-excess early types that bridge between post starburt galaxies and quiescent red galaxies.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
