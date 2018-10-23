@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: BEAST
+title: AGN Variability
 permalink: projects/agn
 # All dates must be YYYY-MM-DD format!
 # date: 2015-12-15
