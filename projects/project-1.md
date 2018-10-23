@@ -23,4 +23,4 @@ In the team, I have been leading several projects on understanding the galactic 
 Currently I am working on the SMC galactic structure and indenifying Magellanic stellar populations in the Leading Arm gas. I have been also involved in projects led by other SMASH members (e.g., [Nidever et al. 2018(http://adsabs.harvard.edu/abs/2018arXiv180502671N)]). 
 
  
-Data: <a href="https://datalab.noao.edu/smash/smash.php">NOAO Data Lab</a>
+Data: <a href="https://datalab.noao.edu/smash/smash.php"><img src="./images/datalab.png" style="width:32px; height:32px" alt="Data Lab">NOAO Data Lab</a>
