@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MCs.jpg
+image: images/MCs.png
 title: SMASH
 permalink: projects/SMASH
 # All dates must be YYYY-MM-DD format!
