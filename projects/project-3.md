@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/M81.jpg
-title: SFH
+title: Star Formation History
 permalink: projects/SFH
 # All dates must be YYYY-MM-DD format!
 # date: 2014-04-12
