@@ -12,7 +12,7 @@ labels:
   - E+A galaxy
   - Galaxy evolution
   - SDSS & GALEX
-summary: We examined the Fundamental Planes of early type galaxies and revealed a certain group of UV-excess early types that bridge between post starburt galaxies and quiescent red galaxies.
+summary: We examined the Fundamental Planes of early-type galaxies and revealed a certain group of UV-excess early types that bridge between post starburt galaxies and quiescent red galaxies.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
