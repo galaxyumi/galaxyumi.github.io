@@ -9,7 +9,8 @@ permalink: projects/beast
 labels:
   - Stellar SED fitting
   - Dust extinction
-  - Bayesian
+  - Escape fraction of LyC
+  - NGC 4214
 summary: Our team developed the Bayesian Extinction and Stellar Tool (BEAST). The BEAST fits the ultraviolet to near-infrared photometric SEDs of stars to extract stellar and dust extinction parameters. 
 ---
 
