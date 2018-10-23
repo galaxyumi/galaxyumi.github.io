@@ -11,7 +11,7 @@ labels:
   - Stellar Population
   - Galactic Structure
   - Reddening Map
-summary: The Survey of the MAgellanic Stellar History (SMASH) observed the Magellanic System with DECam in ugriz to resolve individual stars. Using resolved stellar populations, we study the formation and evolution of the Magellanic Clouds. Image Credit Nidever et al.
+summary: The Survey of the MAgellanic Stellar History (SMASH) observed the Magellanic System with DECam in ugriz to resolve individual stars. Using resolved stellar populations, we study the formation and evolution of the Magellanic Clouds. (Image from Nidever et al.)
 ---
 
 <img class="ui medium right floated rounded image" src="../images/smash.jpg">
