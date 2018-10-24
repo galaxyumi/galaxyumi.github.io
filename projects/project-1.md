@@ -22,7 +22,7 @@ summary: The Survey of the MAgellanic Stellar History maps the Magellanic System
 The Survey of the MAgellanic Stellar History (SMASH) maps ~480 square degrees of the sky to depths of ugriz=24 to detect stellar populations associated with the Magellanic Clouds. Our team has been producing [exciting results](https://datalab.noao.edu/smash/results.php) and made the first data release of ~100 million objects in 2017. The second data release will be in early 2019. The SMASH DR1 is available through [NOAO Data Lab](https://datalab.noao.edu/smash/smash.php). The detailed description of the survey can be found in [Nidever et al. 2017](http://adsabs.harvard.edu/abs/2017AJ....154..199N).  
 
 <figure>
-<img class="ui large left floated rounded image" src="../images/LMC_3d.png">
+<p><img class="ui large left floated rounded image" src="../images/LMC_3d.png">
 <figcaption>Choi et al. (2018a)</figcaption>
 </figure>
 
