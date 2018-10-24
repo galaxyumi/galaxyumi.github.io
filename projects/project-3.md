@@ -15,7 +15,7 @@ summary: I measured spatially resolved star formation histories of M81 using the
 ---
 
 <figure>
-  <img class="ui image" src="{{ site.baseurl }}/images/M81.jpg">
+  <img class="ui small left floated rounded image" src="{{ site.baseurl }}/images/M81.jpg">
   <figcaption>Title text</figcaption>
 </figure>
 
