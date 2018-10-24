@@ -14,7 +14,7 @@ labels:
 summary: Our team developed the Bayesian Extinction and Stellar Tool (BEAST). I use the BEAST to fit the ultraviolet to near-infrared photometric SEDs of stars in NGC 4214 to extract stellar and dust extinction parameters. 
 ---
 
-<img class="ui small right floated rounded image" src="../images/beast.png">
+<img class="ui medium right floated rounded image" src="../images/beast.png">
 
 The BEAST is the stellar SED fitting tool that I have been contributing to develop and improve since 2014. The full details of the BEAST are provided by [Gordon et al. 2016](http://adsabs.harvard.edu/abs/2016ApJ...826..104G).
 
