@@ -14,9 +14,10 @@ labels:
 summary: Spatially resolved star formation histories (SFHs) of M81 and M31 were measured based on their color magnitude diagrams constructed from HST imaging data.  
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/M81.jpg">
+*M81*
 
-(This page is currently in active development!)
+Inidvidual stars in a galaxy retain a fossil record of the formation and evolution of the galaxy. Thus, recoverying its full star formation history (SFH) is a very powerful tool to study the mass assembly and chemical enrichment histories of the galaxy over time. The SFHs of particular galactic structures can be used to investigate the origin of those particular structures. 
 
 Recent star formation in M81: [Choi et al. 2015](http://adsabs.harvard.edu/abs/2015ApJ...810....9C)
 
