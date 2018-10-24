@@ -24,5 +24,5 @@ In [Choi et al. (2014)](http://adsabs.harvard.edu/abs/2014ApJ...782...37C) , we 
 
 
 <img class="ui medium left floated rounded image" src="../images/agn_completeness.png">
-<img class="ui medium right floated rounded image" src="../images/agn_efficiency.png">
+<img class="ui medium left floated rounded image" src="../images/agn_efficiency.png">
 
