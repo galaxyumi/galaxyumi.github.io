@@ -17,7 +17,7 @@ summary: The Survey of the MAgellanic Stellar History maps the Magellanic System
 <div class="clear">
 <figure>
 <img class="ui medium right floated rounded image" src="../images/smash.jpg">
-<figcaption class="centered-text"> Nidever et al. (2017) </figcaption>
+<figcaption> Nidever et al. (2017) </figcaption>
 </figure>
 </div>
 
