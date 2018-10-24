@@ -14,8 +14,10 @@ labels:
 summary: I measured spatially resolved star formation histories of M81 using the color magnitude diagrams constructed from HST imaging data to test the density wave theory for its grand-design spiral arms.  
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/M81.jpg">
-*M81*
+<figure>
+  <img class="ui image" src="{{ site.baseurl }}/images/M81.jpg">
+  <figcaption>Title text</figcaption>
+</figure>
 
 Inidvidual stars in a galaxy retain a fossil record of the formation and evolution of the galaxy. Thus, recoverying its full star formation history (SFH) is a very powerful tool to study the mass assembly and chemical enrichment histories of the galaxy over time. The SFHs of particular galactic structures can be used to investigate the origin of those particular structures. 
 
