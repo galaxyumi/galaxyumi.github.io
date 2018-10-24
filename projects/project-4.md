@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/agn_structure.png
 title: AGN Variability
 permalink: projects/agn
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
   - Light curves
   - Stripe 82 
   - LSST
-summary: I generated g-band difference images and constructed light curves to characterize the optical variability of both faint AGNs and quasars. 
+summary: I generated g-band difference images and constructed light curves to characterize the optical variability of both faint AGNs and quasars, and then classify AGNs based on their optical variability. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
