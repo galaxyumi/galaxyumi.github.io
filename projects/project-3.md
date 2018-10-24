@@ -11,7 +11,7 @@ labels:
   - M81 & M31
   - Density Waves
   
-summary: Spatially resolved star formation histories (SFHs) of M81 and M31 were measured based on their color magnitude diagrams constructed from HST imaging data.  
+summary: I measured spatially resolved star formation histories of M81 using the color magnitude diagrams constructed from HST imaging data to test the density wave theory for its grand-design spiral arms.  
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/M81.jpg">
