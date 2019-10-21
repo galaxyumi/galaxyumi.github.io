@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Yumi Choi",
-    "label": "Research Associate",
+    "label": "Post-doctoral Fellow",
     "picture": "https://galaxyumi.github.io/images/yumi.JPG",
-    "email": "ymchoi@email.arizona.edu",
+    "email": "ychoi@stsci.edu",
     "phone": "",
     "website": "https://galaxyumi.github.io",
-    "summary": "I am a SMASH postdoc at Monata State University/University of Arizona. My research interest centers on understanding the galaxy formation and evolution using resolved stellar populations in nearby galaxies. Specifically, I am interested in the evolution of dwarf galaxies as high-z analogs.",
+    "summary": "I am a postdoc at STScI. My research interest centers on understanding the galaxy formation and evolution using resolved stellar populations and their interactions withe ISM in nearby galaxies. Specifically, I am interested in the evolution of dwarf galaxies as high-z analogs.",
     "location": {
-      "address": "950 N Cherry Ave.",
-      "postalCode": "85719",
-      "city": "Tucson",
+      "address": "3700 San Martin Drive",
+      "postalCode": "21218",
+      "city": "Baltimore",
       "countryCode": "USA",
-      "region": "Arizona"
+      "region": "Maryland"
     },
     "profiles": [
       {
@@ -30,6 +30,11 @@
     },
     {
       "name": "resolved stellar populations",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "interstellar medium",
       "keywords": [
       ]
     },
@@ -64,16 +69,15 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Python",
-        "IDL"
+        "Python"
       ]
     },
     {
       "name": "Toolsets",
       "level": "",
       "keywords": [
-        "MATCH",
-        "BEAST",
+        "BEAST (SED fitter)",
+        "MATCH (CMD fitter)",
         "Git/GitHub"
       ]
     }
@@ -96,10 +100,10 @@
       "position": "Postdoctoral Research Associate",
       "website": "",
       "startDate": "Sep. 2016",
-      "endDate": "Present",
+      "endDate": "Aug. 2019",
       "summary": "Working on the SMASH (Survey of the MAgellanic Stellar History) project",
       "highlights": [
-        "Photometry Quality Assurance", "LMC Dust Reddening Map", "LMC 3D Structure",
+        "Photometry Quality Assurance", "LMC/SMC Dust Reddening Map", "LMC/SMC 3D Structure",
         "Modeling the LMC Disk"
       ]
     }
